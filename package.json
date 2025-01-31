@@ -1,0 +1,23 @@
+{
+  "name": "prowly-scenario",
+  "version": "1.0.0",
+  "description": "Feature – a general description of the tested functionality.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnbart/prowly-scenario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/agnbart/prowly-scenario/issues"
+  },
+  "homepage": "https://github.com/agnbart/prowly-scenario#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.12.0"
+  }
+}

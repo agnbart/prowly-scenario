@@ -9,3 +9,9 @@ Given – initial conditions.
 When – user action.
 
 Then – expected result.
+
+
+## Stack
+TypeScript
+
+Playwright
